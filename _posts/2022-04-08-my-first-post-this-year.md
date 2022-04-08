@@ -6,8 +6,6 @@ categories: Website
 tags: [Github, website]
 ---
 
-## How i have built my website
-
 1. I created a GitHub account 
 2. I cloned a repository from https://github.com/datamaunz
 3. I renamed the cloned repository sagittarimme.github.io
