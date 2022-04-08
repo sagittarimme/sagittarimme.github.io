@@ -19,5 +19,4 @@ Among many academies Tech Expert Academy interested me from a first look on thei
 
 ### Contact
 
-Phone: +491748209124
-E-mail: 02092111X@gmail.com
+Phone: +491748209124 | E-mail: 02092111X@gmail.com
